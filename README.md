@@ -256,7 +256,7 @@ HTML5 • CSS3 • JavaScript
 Modern responsive educational website.
 
 🔗 **Live Website**  
-https://crestridgewesterncollege.com  
+https://crestridgewesterncollege.ca 
 
 💻 **Tech Stack**  
 `HTML5` • `CSS3` • `JavaScript`
@@ -300,7 +300,7 @@ https://overstockclearance.com
 Professional law firm website.
 
 🔗 **Live Website**  
-https://ijlsandpartners.com  
+https://ijlsandpartners.in
 
 💻 **Tech Stack**  
 `HTML5` • `CSS3` • `JavaScript`
