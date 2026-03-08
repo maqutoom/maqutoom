@@ -144,7 +144,7 @@ HTML • CSS • JavaScript • Bootstrap • Figma
 
 Modern responsive educational website.
 
-🔗 https://crestridgewesterncollege.com
+🔗 https://crestridgewesterncollege.ca
 
 Tech Used  
 HTML5 • CSS3 • JavaScript
@@ -188,7 +188,7 @@ HTML • CSS • JavaScript
 
 Professional law firm website.
 
-🔗 https://ijlsandpartners.com
+🔗 https://ijlsandpartners.in
 
 Tech Used  
 HTML5 • CSS3 • JavaScript
