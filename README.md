@@ -206,9 +206,6 @@ HTML5 • CSS3 • JavaScript
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maqutoom&theme=tokyonight&hide_border=true"/>
 
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maqutoom&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
